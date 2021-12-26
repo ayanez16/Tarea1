@@ -1,4 +1,4 @@
-#¿De cuál tipo de dato sería la variable donde almacena lo siguiente?
+#Identificar el tipo de dato de cada variable
 variable1 = "Hola Mundo"
 variable2 = True
 variable3 = 1
