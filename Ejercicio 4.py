@@ -1,5 +1,4 @@
-#Construya un programa que dado un valor entero N, haga el cálculo de la función
-#factorial utilizando estructuras iterativas.
+#Factorial de un numero
 numero = int(input("Ingrese un numero: "))
 if numero>=1:
     f=numero
